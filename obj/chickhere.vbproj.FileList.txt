@@ -1,0 +1,7 @@
+obj\Release\chickhere.exe
+bin\chickhere.exe
+bin\chickhere.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\chickhere.Form1.resources
+obj\Release\chickhere.vbproj.GenerateResource.Cache
+obj\Release\chickhere.xml

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="chickhere">
+</Property><Property Name="Solution File" Value="D:\dave\vs\chickhere\chickhere.sln">
+</Property><Property Name="User Options File" Value="D:\dave\vs\chickhere\chickhere.suo">
+</Property><Property Name="Date" Value="25 January 2006">
+</Property><Property Name="Time" Value="02:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="chickhere.sln" Description="File successfully backed up as D:\dave\vs\chickhere\Backup\chickhere.sln">
+</Event><Event ErrorLevel="0" Project="" Source="chickhere.suo" Description="File successfully backed up as D:\dave\vs\chickhere\Backup\chickhere.suo">
+</Event><Event ErrorLevel="0" Project="chickhere" Source="chickhere.vbproj" Description="Project file successfully backed up as D:\dave\vs\chickhere\Backup\chickhere.vbproj">
+</Event><Event ErrorLevel="0" Project="chickhere" Source="chickhere.vbproj.user" Description="Project user file successfully backed up as D:\dave\vs\chickhere\Backup\chickhere.vbproj.user">
+</Event><Event ErrorLevel="0" Project="chickhere" Source="AssemblyInfo.vb" Description="File successfully backed up as D:\dave\vs\chickhere\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="chickhere" Source="Form1.vb" Description="File successfully backed up as D:\dave\vs\chickhere\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="chickhere" Source="Module1.vb" Description="File successfully backed up as D:\dave\vs\chickhere\Backup\Module1.vb">
+</Event><Event ErrorLevel="0" Project="chickhere" Source="Form1.resx" Description="File successfully backed up as D:\dave\vs\chickhere\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="chickhere" Source="chickhere.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="chickhere" Source="chickhere.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="chickhere.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="chickhere.sln" Description="Converted">
+</Event></UpgradeLog>
