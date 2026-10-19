@@ -1,0 +1,23 @@
+# Visual Studio 2006 conversion backup. UpgradeLog.XML records these copies
+# ("File successfully backed up as ...\Backup\...") of AssemblyInfo.vb,
+# Form1.vb, Module1.vb, and the upgrade-report assets. Generated, not source.
+Backup/
+
+# Visual Studio 2008 conversion backup. UpgradeLog2.XML records these copies
+# ("File successfully backed up as ...\Backup1\...") of the solution and
+# user-options file. Generated, not source.
+Backup1/
+
+# Stylesheet, CSS, and images emitted by the Visual Studio upgrade wizard
+# (referenced from UpgradeLog.XML). Generated report chrome, not source.
+_UpgradeReport_Files/
+
+# Upgrade wizard logs generated alongside the backups above.
+UpgradeLog.XML
+UpgradeLog2.XML
+
+# MSBuild compiled output (assemblies, XML docs, debug symbols).
+bin/
+
+# MSBuild intermediate output (resources, caches, FileList).
+obj/
