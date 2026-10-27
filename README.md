@@ -1,5 +1,9 @@
 # ClickHere Machine Configurator
 
+<p align="center">
+  <img src=".github/logo.png" alt="clickhere-machine-configurator logo" width="128" />
+</p>
+
 A small Windows utility that configures a machine for the ClickHere
 setup automatically when it runs.
 
